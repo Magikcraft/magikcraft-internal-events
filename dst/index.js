@@ -4,5 +4,6 @@ var Events;
 (function (Events) {
     Events["PlayerJoinedServer"] = "PlayerJoinedServer";
     Events["PlayerQuitServer"] = "PlayerQuitServer";
-    Events["SendLoreToUser"] = "SendLoreToUser";
+    Events["LoreSentToUser"] = "LoreSentToUser";
+    Events["PlayerCastSpell"] = "PlayerCastSpell";
 })(Events = exports.Events || (exports.Events = {}));

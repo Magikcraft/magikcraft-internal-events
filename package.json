@@ -1,8 +1,9 @@
 {
   "name": "magikcraft-internal-events",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typed Magikcraft internal events",
   "main": "dst/index.js",
+  "types": "dst/index.d.ts",
   "scripts": {
     "test": "jest",
     "precommit": "tsc -p tsconfig.json"

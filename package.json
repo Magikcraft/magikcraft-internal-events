@@ -1,0 +1,27 @@
+{
+  "name": "magikcraft-internal-events",
+  "version": "1.0.0",
+  "description": "Typed Magikcraft internal events",
+  "main": "dst/index.js",
+  "scripts": {
+    "test": "jest",
+    "precommit": "tsc -p tsconfig.json"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magikcraft/magikcraft-internal-events.git"
+  },
+  "keywords": [
+    "Magikcraft"
+  ],
+  "author": "Magikcraft.io",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Magikcraft/magikcraft-internal-events/issues"
+  },
+  "homepage": "https://github.com/Magikcraft/magikcraft-internal-events#readme",
+  "devDependencies": {
+    "husky": "^0.14.3"
+  }
+}

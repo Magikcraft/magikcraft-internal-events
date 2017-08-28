@@ -1,7 +1,7 @@
 {
-  "name": "magikcraft-internal-events",
+  "name": "magikcraft-playerevent-types",
   "version": "1.0.2",
-  "description": "Typed Magikcraft internal events",
+  "description": "Typed Magikcraft Player Events",
   "main": "dst/index.js",
   "types": "dst/index.d.ts",
   "scripts": {
@@ -11,7 +11,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Magikcraft/magikcraft-internal-events.git"
+    "url": "git+https://github.com/Magikcraft/magikcraft-playerevent-types.git"
   },
   "keywords": [
     "Magikcraft"
@@ -19,9 +19,9 @@
   "author": "Magikcraft.io",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/Magikcraft/magikcraft-internal-events/issues"
+    "url": "https://github.com/Magikcraft/magikcraft-playerevent-types/issues"
   },
-  "homepage": "https://github.com/Magikcraft/magikcraft-internal-events#readme",
+  "homepage": "https://github.com/Magikcraft/magikcraft-playerevent-types#readme",
   "devDependencies": {
     "husky": "^0.14.3"
   }

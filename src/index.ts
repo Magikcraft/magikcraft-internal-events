@@ -1,6 +1,8 @@
-export enum Events {
-    PlayerJoinedServer = 'PlayerJoinedServer',
-    PlayerQuitServer = 'PlayerQuitServer',
-    LoreSentToUser = 'LoreSentToUser',
-    PlayerCastSpell = 'PlayerCastSpell'
+export enum PlayerEventTypes {
+    PLAYAPP_USER_HEARTBEAT = 'PLAYAPP_USER_HEARTBEAT',
+    
+    PLAYER_JOINED_MINECRAFT_SERVER = 'PLAYER_JOINED_MINECRAFT_SERVER',
+    PLAYER_QUIT_MINECRAFT_SERVER = 'PLAYER_QUIT_MINECRAFT_SERVER',
+    PLAYER_UPSERT_LORE = 'PLAYER_UPSERT_LORE',
+    PLAYER_CAST_SPELL = 'PLAYER_CAST_SPELL',
 }

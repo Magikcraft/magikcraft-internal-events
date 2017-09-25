@@ -1,2 +1,2 @@
 # magikcraft-internal-events
-Typed Magikcraft events
+Typed Magikcraft events.

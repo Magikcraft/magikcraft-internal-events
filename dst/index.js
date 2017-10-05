@@ -9,4 +9,5 @@ var PlayerEventTypes;
     PlayerEventTypes["PLAYER_FOUND_SCROLL"] = "PLAYER_FOUND_SCROLL";
     PlayerEventTypes["PLAYER_CAST_SPELL"] = "PLAYER_CAST_SPELL";
     PlayerEventTypes["PLAYER_WAS_AT"] = "PLAYER_WAS_AT";
+    PlayerEventTypes["PLAYER_JOINED_WORLD"] = "PLAYER_JOINED_WORLD";
 })(PlayerEventTypes = exports.PlayerEventTypes || (exports.PlayerEventTypes = {}));

@@ -8,4 +8,5 @@ var PlayerEventTypes;
     PlayerEventTypes["PLAYER_UPSERT_LORE"] = "PLAYER_UPSERT_LORE";
     PlayerEventTypes["PLAYER_CAST_SPELL"] = "PLAYER_CAST_SPELL";
     PlayerEventTypes["PLAYER_WAS_AT"] = "PLAYER_WAS_AT";
+    PlayerEventTypes["PLAYER_JOINED_WORLD"] = "PLAYER_JOINED_WORLD";
 })(PlayerEventTypes = exports.PlayerEventTypes || (exports.PlayerEventTypes = {}));
